@@ -236,3 +236,6 @@ This repository serves as the official landing page for WarRock. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WarRock today!**
+
+---
+**Last updated:** 2026-09-10 12:11:35 UTC
