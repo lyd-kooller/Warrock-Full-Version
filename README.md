@@ -238,4 +238,4 @@ This repository serves as the official landing page for WarRock. The software is
 **Get the most recent version of WarRock today!**
 
 ---
-**Last updated:** 2026-11-04 08:56:28 UTC
+**Last updated:** 2026-11-04 17:03:34 UTC
